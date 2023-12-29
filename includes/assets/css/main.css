@@ -1,0 +1,34 @@
+#public_login {
+	background: url("/workshop/includes/assets/img/pacman.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#login-page main {
+	background-color: black;
+	opacity: .9;
+	width: 1600px !important;
+}
+
+.btn-gnadmin {
+	border: 2px solid green;
+}
+
+.btn-dhcp {
+	border: 2px solid black;
+}
+
+.btn-google {
+	border: 2px solid green;
+}
+
+.btn-luxriot {
+	border: 2px solid #fa6605;
+
+}
+
+.btn-gdevices {
+	border: 2px solid blue;
+}
